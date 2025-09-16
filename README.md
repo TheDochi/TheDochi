@@ -1,3 +1,3 @@
 <div style="text-align: center">
-  <img src="Cpp_Waifu.jpg" alt="Obraz nie został załadowany!" width="100px"> 
+  <img src="Cpp_Waifu.jpg" alt="Obraz nie został załadowany!"> 
 </div>
