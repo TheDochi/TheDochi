@@ -1,2 +1,1 @@
-# Image
-Nothing important
+![No image loaded!](Cpp_Waifu.jpg)
